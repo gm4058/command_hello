@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 reated by https://www.toptal.com/developers/gitignore/api/windows,python
+=======
+# Created by https://www.toptal.com/developers/gitignore/api/windows,python
+>>>>>>> hotfix
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,python
 
 ### Python ###
@@ -181,4 +185,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/windows,python
+=======
+# End of https://www.toptal.com/developers/gitignore/api/windows,python:
+>>>>>>> hotfix
